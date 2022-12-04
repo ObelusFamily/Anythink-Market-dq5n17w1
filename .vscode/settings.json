@@ -1,4 +1,4 @@
 {
   "workbench.startupEditor": "none",
-  "editor.defaultFormatter": "vscode.references-view"
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
